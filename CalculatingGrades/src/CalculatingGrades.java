@@ -27,5 +27,13 @@ public class CalculatingGrades {
         double result=average/lesson;
 
         System.out.println("Your gpa is: "+result);
+        boolean x= result>60;
+        if (x==true){
+            System.out.println("You pass the class.");
+        }
+        else{
+            System.out.println("You did not pass the class." );
+        }
+
     }
 }
