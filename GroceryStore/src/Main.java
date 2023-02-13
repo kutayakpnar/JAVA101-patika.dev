@@ -38,7 +38,7 @@ public class Main {
 
         System.out.println("The total fee is: "+totalFee);
 
-
+1
 
 
 
